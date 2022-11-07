@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651063285 source:f:\college\l2_s2\data struct\lap tasks\a1_p2_id1_id2\src\fraction.cpp
+	"Fraction.h"
+	<iostream>
+
+1651063231 f:\college\l2_s2\data struct\lap tasks\a1_p2_id1_id2\include\fraction.h
+	<iostream>
+
+1651063306 source:f:\college\l2_s2\data struct\lap tasks\a1_p2_id1_id2\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+	<Fraction.h>
+	<iostream>
+
+1651063231 f:\college\l2_s2\data struct\lap tasks\a1_p2_id1_id2\include\fractioncalculator.h
+	<iostream>
+
+1651063329 source:f:\college\l2_s2\data struct\lap tasks\a1_p2_id1_id2\main.cpp
+	<iostream>
+	"Fraction.h"
+	"FractionCalculator.h"
+

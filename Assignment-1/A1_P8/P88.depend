@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651071725 source:c:\users\user\desktop\data str\p88\main.cpp
+	<iostream>
+	<chrono>
+	<algorithm>
+
